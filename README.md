@@ -50,7 +50,7 @@ Me chamo Vítor Henrique Cardoso, tenho 20 anos e sou natural de São Paulo. Atu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vitorhenriquec0&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
@@ -58,7 +58,7 @@ Me chamo Vítor Henrique Cardoso, tenho 20 anos e sou natural de São Paulo. Atu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180"
+      height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
