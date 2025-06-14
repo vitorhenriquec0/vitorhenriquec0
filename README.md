@@ -41,6 +41,14 @@ Me chamo Vítor Henrique Cardoso, tenho 18 anos e resido em São José do Rio Pr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"    
 />
 
+<img 
+    align="left" 
+    alt="Python Language" 
+    title="Python Language"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)"    
+/>
 
 
 <br/>
@@ -61,7 +69,7 @@ Me chamo Vítor Henrique Cardoso, tenho 18 anos e resido em São José do Rio Pr
       align="left" 
       alt="GitHub Stats" 
       height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
