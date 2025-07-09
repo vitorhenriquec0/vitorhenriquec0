@@ -2,8 +2,9 @@
 
 
 Me chamo Vítor Henrique Cardoso, tenho 18 anos e resido em São José do Rio Preto-SP.
- Atualmente curso Ciência da Computação na UNESP/IBILCE.
- Sou apaixonado por tecnologia e compartilho aqui alguns dos meus projetos.
+Curso Ciência da Computação na UNESP/IBILCE e compartilho por aqui alguns dos meus projetos.
+
+Atualmente, estou estudando linguagem C, JavaScript, além de HTML e CSS, por meio da faculdade, cursos onlines e projetos pessoais.
 
 ### 🤖 Linguagens e Tecnologias
 
