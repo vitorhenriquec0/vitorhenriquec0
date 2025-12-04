@@ -79,7 +79,7 @@ Atualmente, estou estudando linguagem C, Java, Python e Machine Learning por mei
       align="left" 
       alt="GitHub Stats" 
       height="190"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
