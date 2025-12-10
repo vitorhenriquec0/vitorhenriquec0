@@ -66,6 +66,8 @@ Atualmente, estou estudando linguagem C, Java, Python e Machine Learning por mei
 
 ### 📊 Estatísticas
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhenriquec0&theme=dark&show_icons=true)
+
 <p>
   <img 
     align="left" 
