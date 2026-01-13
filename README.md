@@ -14,7 +14,7 @@ E e compartilho por aqui alguns dos meus projetos.
 Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e Machine Learning para meu projeto de pesquisa (Iniciação Científica)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+    <img src="[https://raw.githubusercontent.com/vitorhenriquec0/vitorhenriquec0/output/snake.svg" alt="Snake animation" />
 </div>
 
 ### 🤖 Linguagens e Tecnologias
