@@ -74,7 +74,7 @@ Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 5px;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
@@ -82,7 +82,7 @@ Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180"
+      height="170"
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
 
