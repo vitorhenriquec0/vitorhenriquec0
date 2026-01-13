@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=64A5DE&section=header&reversal=true"/>
 
 <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=64A5DE&width=435&lines=Ol%C3%A1%2C+sou+um+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=899&color=64A5DE&width=435&lines=Ol%C3%A1%2C+me+chamo+V%C3%ADtor;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;UNESP+(IBILCE+-+S%C3%A3o+Jos%C3%A9+do+Rio+Preto"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=899&color=64A5DE&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+V%C3%ADtor+Henrique;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;UNESP+(IBILCE+-+S%C3%A3o+Jos%C3%A9+do+Rio+Preto)"/>
 </div>
 
 
