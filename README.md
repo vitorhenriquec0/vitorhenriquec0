@@ -1,14 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=64A5DE&section=header&reversal=true"/>
 
 <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=899&color=64A5DE&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+V%C3%ADtor+Henrique;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;UNESP+(IBILCE+-+S%C3%A3o+Jos%C3%A9+do+Rio+Preto)"/>
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=899&color=64A5DE&center=true&multiline=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!"/>
 </div>
 
-<div align="center">
+Ola! Me chamo Vítor Henrique Cardoso. Tenho 18 anos e resido em São José do Rio Preto, São Paulo.
+Estou no 3º período do curso de Ciência da Computação na UNESP (IBILCE - São José do Rio Preto).
+Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C, Python, Java e Desenvolvimento Web (HTML5, CSS3 e JavaScript).
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
+    align="left"
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -16,6 +19,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
+    align="left"
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -23,6 +27,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
+    align="left"
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -31,6 +36,7 @@
 />
 
 <img 
+    align="left"
     alt="C Language" 
     title="C Language"
     width="30px" 
@@ -39,6 +45,7 @@
 />
 
 <img 
+    align="left"
     alt="Python Language" 
     title="Python Language"
     width="30px" 
@@ -47,14 +54,13 @@
 />
 
 <img 
+    align="left"
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"    
 />
-
-</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/vitorhenriquec0/vitorhenriquec0/output/snake.svg" alt="Snake animation" />
