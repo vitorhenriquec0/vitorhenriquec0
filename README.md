@@ -4,20 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=899&color=64A5DE&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+V%C3%ADtor+Henrique;Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;UNESP+(IBILCE+-+S%C3%A3o+Jos%C3%A9+do+Rio+Preto)"/>
 </div>
 
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/vitorhenriquec0/vitorhenriquec0/output/snake.svg" alt="Snake animation" />
-</div>
-
-
-Me chamo Vítor Henrique Cardoso, tenho 18 anos e resido em São José do Rio Preto-SP.
-
-Curso Ciência da Computação na UNESP/IBILCE
-
-E e compartilho por aqui alguns dos meus projetos.
-
-Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e Machine Learning para meu projeto de pesquisa (Iniciação Científica)
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -72,6 +59,12 @@ Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"    
 />
+
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/vitorhenriquec0/vitorhenriquec0/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 <br/>
