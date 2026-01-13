@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=296&color=64A5DE&section=header&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=64A5DE&section=header&reversal=true"/>
 
 <div align="center" width="100%>
     <img src="https://readme-typing-svg.demolab.com?
