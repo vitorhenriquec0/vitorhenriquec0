@@ -76,14 +76,16 @@ Atualmente, estou estudando linguagem C e Java por meio da faculdade e Python e 
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitorhenriquec0&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenriquec0&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=64A5DE&section=footer&reversal=true"/>
