@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=64A5DE&section=header&reversal=true"/>
 
 <div align="center" width="100%">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=899&color=64A5DE&center=true&multiline=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=899&color=64A5DE&center=true&multiline=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub!"/>
 </div>
 
-# Ola! Me chamo Vítor Henrique Cardoso. Tenho 18 anos e resido em São José do Rio Preto, São Paulo.
+Ola! Me chamo Vítor Henrique Cardoso. Tenho 18 anos e resido em São José do Rio Preto, São Paulo.
 
-# Estou no 3º período do curso de Ciência da Computação na UNESP (IBILCE - São José do Rio Preto).
+Estou no 3º período do curso de Ciência da Computação na UNESP (IBILCE - São José do Rio Preto).
 
-# Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C, Python, Java e Desenvolvimento Web (HTML5, CSS3 e JavaScript).
+Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C, Python, Java e Desenvolvimento Web (HTML5, CSS3 e JavaScript).
 
 ### 🤖 Linguagens e Tecnologias
 
