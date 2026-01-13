@@ -82,10 +82,17 @@ Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C,
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
+  />
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=vitorhenriquec0&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
   />
 
 </p>
@@ -93,9 +100,6 @@ Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C,
 <br/>
 <br/>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/vitorhenriquec0/vitorhenriquec0/output/snake.svg" alt="Snake animation" />
-</div>
 
 <br/>
 <br/>
