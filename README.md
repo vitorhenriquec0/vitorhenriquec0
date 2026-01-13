@@ -9,7 +9,6 @@
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -17,7 +16,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -25,7 +23,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -34,7 +31,6 @@
 />
 
 <img 
-    align="center" 
     alt="C Language" 
     title="C Language"
     width="30px" 
@@ -43,7 +39,6 @@
 />
 
 <img 
-    align="center" 
     alt="Python Language" 
     title="Python Language"
     width="30px" 
@@ -52,7 +47,6 @@
 />
 
 <img 
-    align="center" 
     alt="Java" 
     title="Java"
     width="30px" 
