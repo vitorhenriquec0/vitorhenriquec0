@@ -76,7 +76,7 @@ Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C,
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="150" 
     style="padding-right: 5px;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
@@ -84,11 +84,10 @@ Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C,
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170"
+    height="150"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitorhenriquec0&theme=discord-old-blurple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </p>
 
