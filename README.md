@@ -89,9 +89,6 @@ Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C,
   />
 
 <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170"
     src="https://github-readme-streak-stats.herokuapp.com?user=vitorhenriquec0&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
   />
 
