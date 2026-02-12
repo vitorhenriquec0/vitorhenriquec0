@@ -11,7 +11,9 @@ Ola! Me chamo Vítor Henrique Cardoso. Tenho 18 anos e resido em São José do R
 
 Estou no 3º período do curso de Ciência da Computação na UNESP (IBILCE - São José do Rio Preto).
 
-Por aqui compartilho alguns dos meus projetos. Tenho trabalhado com Linguagem C, Python, Java e Desenvolvimento Web (HTML5, CSS3 e JavaScript).
+Por aqui compartilho alguns dos meus projetos.
+
+Atualmente, meu foco é estudar Machine Learning (Aprendizado de Máquina) utilizando Python (NumPy, Scikit-Learn, SeaBorn, entre outras bibliotecas), mas também tenho trabalhado com Linguagem C, Java e Desenvolvimento Web (HTML5, CSS3 e JavaScript).
 
 ### 🤖 Linguagens e Tecnologias
 
