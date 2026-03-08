@@ -87,7 +87,7 @@ Atualmente, meu foco é estudar Machine Learning (Aprendizado de Máquina) utili
     align="left" 
     alt="GitHub Stats" 
     height="150"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorhenriquec0&theme=discord_old_blurple" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorhenriquec0&theme=discord_old_blurple" 
   />
 
 
